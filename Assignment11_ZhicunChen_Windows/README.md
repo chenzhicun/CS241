@@ -3,7 +3,8 @@
 ## Introduction
 
 This GUI program can load a CSV file that is chosen by users, and it will draw a pie chart according to the data in chosen file. After you choose one file and it draw a picture, you can reclick the OpenFile button to open another file and draw another picture.  
-**`NOTICE`**: The first row should be the description of data, such as country name or populaion(1k), do NOT put the data at the first raw.
+**`NOTICE`**: The first row should be the description of data, such as country name or populaion(1k), do NOT put the data at the first raw.  
+**`NOTICE`**: It seems QtCreator doesn't give full support to Chinese charcter in path. So make sure that the file you have chosen is in a English-only path.
 
 ## Environment
 
